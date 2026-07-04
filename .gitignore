@@ -1,0 +1,11 @@
+# Personal data - don't upload your own memory to a public repo!
+memory.json
+reminders.json
+checkins.json
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
